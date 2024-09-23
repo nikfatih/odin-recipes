@@ -1,0 +1,19 @@
+
+
+
+.main-title {
+    background-color: rgba(190, 91, 91, 0.682);
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button {
+    background-color: rgba(152, 91, 152, 0.759);
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
