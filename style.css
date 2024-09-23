@@ -15,5 +15,30 @@
     color: black;
     font-size: small;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes {
+    font-size: 50px;
     text-align: center;
+}
+
+.recipes.pizza {
+    background-color: rgba(225, 225, 90, 0.922);
+}
+
+.recipes.pavlova {
+    background-color: rgba(169, 62, 169, 0.712);
+}
+
+.recipes.fries {
+    background-color: rgba(223, 165, 57, 0.838);
+}
+
+.img {
+    width: auto;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
